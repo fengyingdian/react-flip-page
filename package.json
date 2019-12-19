@@ -72,7 +72,7 @@
         "check-dependencies": "^1.1.0",
         "css-loader": "^3.0.0",
         "enzyme": "^3.10.0",
-        "enzyme-adapter-react-16": "^1.5.0",
+        "enzyme-adapter-react-16": "^1.15.1",
         "eslint": "^6.0.0",
         "eslint-config-airbnb": "^18.0.1",
         "eslint-plugin-import": "^2.13.0",
